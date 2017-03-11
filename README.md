@@ -15,7 +15,9 @@ When sphere collides with golden cube(button) it has button pressed effect and t
 ![Zombie](https://github.com/Leylamammadova/MouseTrap/blob/master/screenshots/blKQPn.gif)
 
 Their bodies fell on a balance scale (just two plane cubes connected together) which activates animation of balance scale which also triggers the hammer to smash our mouse(ball). For hammer I also used animation. 
+It was a fun project to make, but due to my lack of creativeness I couldnt make more events and traps that wouldnt look the same. Even though that zombie box makes me proud. 
 
+Thank you!
 
 
 
